@@ -2,7 +2,7 @@
 
 Here's where my good (maybe not so much 🤣) ideas take place!
 
-- 💬 Ask me about anything related to:<br>
+#### 💬 Ask me anything about:
 
 Javascript/Reactjs/Vuejs/jQuery<br>
 Nodejs/Express<br>
@@ -11,20 +11,18 @@ PHP/Drupal/Wordpress<br>
 MySQL/Sqlite<br>
 HTML5/CSS3<br>
 
-- My Top Projects:<br>
-
+#### My Top Projects:
 [EBDataViewer](https://github.com/eriquebomfim/ebdataviewer)
 
-- 🌱 I’m currently learning:<br> 
-
+#### 🌱 I’m currently learning: 
 AI/ML with **TensorFlow**
 
-- 📫 How to reach me:<br>
+#### 📫 How to reach me:
 
 twitter: @BomfimErique<br>
 email  : erique.bomfim@gmail.com<br>
 
-- ⚡ Fun fact:<br>
+#### ⚡ Fun fact:
 
 I 🧡 play violin and make handcrafts.
 
