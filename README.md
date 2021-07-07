@@ -15,7 +15,7 @@ twitter: @BomfimErique<br>
 email  : erique.bomfim@gmail.com<br>
 
 - ⚡ Fun fact:<br>
-I love play violin and make handcrafts.
+I <3 play violin and make handcrafts.
 
 <!--
 **eriquebomfim/eriquebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
