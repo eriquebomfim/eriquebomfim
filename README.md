@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- I'm work with:<br>
-(images/javascript.png)
+- I'm work with:
+[JS](images/javascript.png)
 
-How to reach me:
+- 🌱 I’m currently learning: 
+AI/ML with TensorFlow
 
-- twitter: @BomfimErique
-- email  : erique.bomfim@gmail.com
+- 📫 How to reach me:
+twitter: @BomfimErique
+email  : erique.bomfim@gmail.com
 
 
 <!--
