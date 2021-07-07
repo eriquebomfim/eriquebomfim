@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 - 💬 Ask me about anything related to:<br>
-![JS](images/javascript.png) ![nodejs](images/nodejs.png) ![express](image/express.png) ![html5](images/html.png) ![css3](images/css3.png) ![php](images/php.png)
+Javascript/Reactjs/Vuejs/<br>
+Nodejs/Express<br>
+PHP/Drupal/Wordpress<br>
+MySQL/Sqlite<br>
+HTML5/CSS3<br>
 
 - 🌱 I’m currently learning:<br> 
-AI/ML with ![TensorFlow](images/tensorflow.png)
+AI/ML with **TensorFlow**
 
 - 📫 How to reach me:<br>
 twitter: @BomfimErique<br>
