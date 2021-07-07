@@ -13,21 +13,32 @@ HTML5/CSS3<br>
 PHP + Drupal/Wordpress<br>
 GIT
 
+
 **My T0p Pr0ject5:**
+
 [EBDataViewer](https://github.com/eriquebomfim/ebdataviewer)
 
+
+
 **🌱 I’m curr3ntly learning:** 
+
 AI/ML with **TensorFlow**<br>
 Japanese
 
+
+
 **📫 How to reach m3:**
+
 twitter: [@bomfimErique](https://twitter.com/bomfimErique)<br>
 email  : erique.bomfim@gmail.com<br>
 
 **Soft Skills**
+
 Native Portuguese, Intermediate English, Spanish and French.
 
-**⚡ Fun fact:** I 🧡 play violin and make handcrafts.
+**⚡ Fun fact:** 
+
+I 🧡 play violin and make handcrafts.
 
 <!--
 **eriquebomfim/eriquebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
