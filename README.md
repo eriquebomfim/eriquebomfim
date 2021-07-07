@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I'm work with:<br>
-JS
+- I'm work with:<br>
+(images/javascript.png)
 
-You can contact me by:
+How to reach me:
+
+- twitter: @BomfimErique
+- email  : erique.bomfim@gmail.com
 
 
 <!--
