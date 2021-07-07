@@ -2,8 +2,7 @@
 
 Here's where my good (maybe not so much 🤣) ideas take place!
 
-**🔭 I’m currently working on:**<br> 
-classified! ksksks
+**🔭 I’m currently working on:** classified! ksksks
 
 **💬 4sk me anyth1ng 4bout:**
 - Javascript + Reactjs/ Vuejs/ jQuery/ Google App Script<br>
@@ -31,10 +30,11 @@ classified! ksksks
 - email  : erique.bomfim@gmail.com<br>
 
 **🦉S0ft Skills**
-- Native Portuguese, Intermediate English, Spanish and French.
+- Native: Portuguese ![brazil](images/brazil.png) 
+- Intermediate English, Spanish and French.
 
-**⚡ Fun fact:**<br> 
-I 🧡 play violin and make handcrafts.
+**⚡ Fun fact:** 
+- I 🧡 play violin and make handcrafts.
 
 <!--
 **eriquebomfim/eriquebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
