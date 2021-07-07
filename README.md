@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm work with:
-[JS](/images/javascript.png)
+[JS](https://github.com/eriquebomfim/eriquebomfim/blob/main/images/javascript.png)
 
 - 🌱 I’m currently learning: 
 AI/ML with TensorFlow
