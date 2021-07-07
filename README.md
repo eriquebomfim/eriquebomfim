@@ -2,6 +2,8 @@
 
 Here's where my good (maybe not so much 🤣) ideas take place!
 
+**🔭 I’m currently working on:** classified! ksksks
+
 **💬 4sk me anyth1ng 4bout:**
 
 Javascript + Reactjs/ Vuejs/ jQuery/ Google App Script<br>
@@ -14,10 +16,9 @@ PHP + Drupal/Wordpress<br>
 GIT
 
 
-**My T0p Pr0ject5:**
+**My T0p Pr0jects:**
 
 [EBDataViewer](https://github.com/eriquebomfim/ebdataviewer)
-
 
 
 **🌱 I’m curr3ntly learning:** 
@@ -26,13 +27,12 @@ AI/ML with **TensorFlow**<br>
 Japanese
 
 
-
 **📫 How to reach m3:**
 
 twitter: [@bomfimErique](https://twitter.com/bomfimErique)<br>
 email  : erique.bomfim@gmail.com<br>
 
-**Soft Skills**
+**🦉S0ft Skills**
 
 Native Portuguese, Intermediate English, Spanish and French.
 
