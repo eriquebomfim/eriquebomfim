@@ -2,42 +2,38 @@
 
 Here's where my good (maybe not so much 🤣) ideas take place!
 
-**🔭 I’m currently working on:** classified! ksksks
+**🔭 I’m currently working on:**<br> 
+classified! ksksks
 
 **💬 4sk me anyth1ng 4bout:**
-
-Javascript + Reactjs/ Vuejs/ jQuery/ Google App Script<br>
-Nodejs + Express<br>
-MySQL/Sqlite<br>
-VBScript + MSExcel<br>
-Business Intelligency + QuickView<br>
-HTML5/CSS3<br>
-PHP + Drupal/Wordpress<br>
-GIT
+- Javascript + Reactjs/ Vuejs/ jQuery/ Google App Script<br>
+- Nodejs + Express<br>
+- MySQL/Sqlite<br>
+- VBScript + MSExcel<br>
+- Business Intelligency + QuickView<br>
+- HTML5/CSS3<br>
+- PHP + Drupal/Wordpress<br>
+- GIT
 
 
 **My T0p Pr0jects:**
-
-[EBDataViewer](https://github.com/eriquebomfim/ebdataviewer)
+- [EBDataViewer](https://github.com/eriquebomfim/ebdataviewer) - a powerful opensource infographic maker! 
 
 
 **🌱 I’m curr3ntly learning:** 
-
-AI/ML with **TensorFlow**<br>
-Japanese
+- AI/ML with **TensorFlow**<br>
+- Japanese
 
 
 **📫 How to reach m3:**
 
-twitter: [@bomfimErique](https://twitter.com/bomfimErique)<br>
-email  : erique.bomfim@gmail.com<br>
+- twitter: [@bomfimErique](https://twitter.com/bomfimErique)<br>
+- email  : erique.bomfim@gmail.com<br>
 
 **🦉S0ft Skills**
+- Native Portuguese, Intermediate English, Spanish and French.
 
-Native Portuguese, Intermediate English, Spanish and French.
-
-**⚡ Fun fact:** 
-
+**⚡ Fun fact:**<br> 
 I 🧡 play violin and make handcrafts.
 
 <!--
