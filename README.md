@@ -35,8 +35,8 @@ Here's where my good (maybe not so much 🤣) ideas take place!
 - Good interpersonal skills
 
 **⚡ Fun fact:** 
-- In my free time, I cook, read, listen classical music.
-Also I 🧡 to play violin and make handcrafts.
+- In my free time, I cook, read, listen classical music.<br>
+- I 🧡 to play violin and make handcrafts.
 
 <!--
 **eriquebomfim/eriquebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
