@@ -1,10 +1,10 @@
-### Hi th3re 👋
+### Hi there 👋
 
 Here's where my good (maybe not so much 🤣) ideas take place!
 
 **🔭 I’m currently working on:** classified! ksksks
 
-**💬 4sk me anyth1ng 4bout:**
+**💬 Ask me anyth1ng about:**
 - Javascript + Reactjs/ Vuejs/ jQuery/ Google App Script<br>
 - Nodejs + Express<br>
 - MySQL/Sqlite<br>
@@ -15,26 +15,28 @@ Here's where my good (maybe not so much 🤣) ideas take place!
 - GIT
 
 
-**My T0p Pr0jects:**
+**My Top Projects:**
 - [EBDataViewer](https://github.com/eriquebomfim/ebdataviewer) - a powerful opensource infographic maker! 
 
 
-**🌱 I’m curr3ntly learning:** 
+**🌱 I’m currently learning:** 
 - AI/ML with **TensorFlow**<br>
 - Japanese
 
 
-**📫 How to reach m3:**
+**📫 How to reach me:**
 
 - twitter: [@bomfimErique](https://twitter.com/bomfimErique)<br>
 - email  : erique.bomfim@gmail.com<br>
 
-**🦉S0ft Skills**
+**🦉Soft Skills**
 - Native: Portuguese ![brazil](images/brazil.png) 
 - Intermediate English, Spanish and French.
+- Good interpersonal skills
 
 **⚡ Fun fact:** 
-- I 🧡 play violin and make handcrafts.
+- In my free time, I cook, read, listen classical music.
+Also I 🧡 to play violin and make handcrafts.
 
 <!--
 **eriquebomfim/eriquebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
