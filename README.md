@@ -38,6 +38,9 @@ Here's where my good (maybe not so much 🤣) ideas take place!
 - In my free time, I cook, read, listen classical music.<br>
 - I 🧡 to play violin and make handcrafts.
 
+
+(https://script.google.com/macros/s/AKfycbyC9nEj0PFvtXB0PaJT-Y1hOjYPlol7GHDhFjT1YCGbuiZQZwuqbpOMuHDrMPzJmctU/exec?action=notify&text=Github visited =D")
+
 <!--
 **eriquebomfim/eriquebomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
