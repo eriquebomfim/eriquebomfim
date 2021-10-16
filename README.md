@@ -11,6 +11,7 @@ Here's where my good (maybe not so much 🤣) ideas take place!
 - VBScript + MSExcel<br>
 - Business Intelligency + QuickView<br>
 - HTML5/CSS3<br>
+- Kotlin
 - PHP + Drupal/Wordpress<br>
 - GIT
 
